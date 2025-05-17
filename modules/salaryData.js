@@ -2,7 +2,7 @@ const salaryData = [
     { role: 'CTO', company: 'Big Data Inc.', salary: 320000},
     { role: 'Technical Lead', company: 'Big Data Inc.', salary: 230000},
     { role: 'Software Engineer II', company: 'Big Data Inc.', salary: 180000},
-    { role: 'Software Engineer I', company: 'Big Data Inc.', salary: 140000},
+    { role: 'Software Engineer I', company: 'Big Daata Inc.', salary: 140000},
     { role: 'CTO', company: 'Medium Data Inc.', salary: 215000},
     { role: 'Technical Lead', company: 'Medium Data Inc.', salary: 165000},
     { role: 'Software Engineer II', company: 'Medium Data Inc.', salary: 140000},
